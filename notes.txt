@@ -1,0 +1,9 @@
+Je suis en train de vérifier si "Structure des espaces de fonctions de réseau neuronal" est lié. Evaluation confirmée comme ICLR 2024, probablement non nécessaire.
+
+Je suis en train de penser à la manière dont les espaces des fonctions de réseaux neuronaux sont organisés.
+
+Considérant l_OPTIMISATION_lsdsa \n
+Спеціаліста \n -> Specialist in russian
+Consultons les politiques OpenAI.
+
+Je suis en train de regarder la représentation fonctionnelle des modèles comme les réseaux neuronaux ou les méthodes par noyau, en cherchant des auteurs clés, des papiers et des concepts pertinents. Hm, cela semble intéressant.
