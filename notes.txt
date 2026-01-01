@@ -7,3 +7,37 @@ Considérant l_OPTIMISATION_lsdsa \n
 Consultons les politiques OpenAI.
 
 Je suis en train de regarder la représentation fonctionnelle des modèles comme les réseaux neuronaux ou les méthodes par noyau, en cherchant des auteurs clés, des papiers et des concepts pertinents. Hm, cela semble intéressant.
+
+
+
+
+29/12
+Total Words:
+3817
+Headers:
+38
+Math Inline:
+86
+Math Display:
+37
+
+30/12
+Total Words:
+4160
+Headers:
+45
+Math Inline:
+111
+Math Display:
+67
+
+
+31/12
+Total Words:
+4656
+Headers:
+46
+Math Inline:
+129
+Math Display:
+70
